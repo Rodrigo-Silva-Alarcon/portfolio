@@ -301,10 +301,7 @@ const App = () => {
           <h2 className="section-title">Proyectos <span className="text-accent">Recientes</span></h2>
           <div className="section-line" />
         </div>
-        <p className="projects-auto-label reveal">
-          <span className="pulse-dot" />
-          Actualización automática desde GitHub
-        </p>
+
         <div className="projects-grid">
           {repos.map((repo, index) => (
             <div
