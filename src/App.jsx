@@ -135,7 +135,7 @@ const App = () => {
             <span className="text-dim">{'{'}</span> Ingeniero en Sistemas <span className="text-dim">{'}'}</span>
           </h2>
           <p className="hero-subtitle">
-            <span className="text-dim">{'// '}</span>Full Stack Developer · Integración de Soluciones con IA · Automatización de Procesos
+            <span className="text-dim">{'// '}</span>Full Stack Developer · React · .NET · Integración con IA
           </p>
           <div className="hero-actions">
             <a href="#projects" className="btn-primary">Ver Proyectos</a>
@@ -165,9 +165,9 @@ const App = () => {
               Ingeniero en Sistemas de la UTEPSA con enfoque analítico para la resolución de problemas complejos.
             </p>
             <p>
-              Experiencia en el desarrollo de sistemas de gestión, aplicaciones web escalables y arquitectura de
-              soluciones backend. Apasionado por optimizar procesos de desarrollo mediante IA, automatización y
-              buenas prácticas de ingeniería de software.
+              Experiencia en desarrollo de sistemas de gestión, aplicaciones web con React y arquitectura de
+              soluciones backend (.NET, FastAPI). Apasionado por optimizar procesos de desarrollo mediante IA,
+              automatización y buenas prácticas de ingeniería de software.
             </p>
           </div>
           <div className="about-quick-stats">
