@@ -89,7 +89,7 @@ const App = () => {
   const timeline = [
     { year: '2024', title: 'Ingeniería en Sistemas', detail: 'Graduación en la UTEPSA, Santa Cruz de la Sierra.' },
     { year: '2024', title: 'Sistema de Gestión Comercial', detail: 'Lanzamiento y desarrollo con .NET y SQL.' },
-    { year: '2025', title: 'Surazo Digital', detail: 'Especialización en desarrollo web y consultoría digital.' },
+    { year: '2025', title: 'FastAPI Realtime Platform', detail: 'Plataforma backend con API REST autenticada (JWT) y WebSockets en tiempo real. FastAPI, PostgreSQL, Docker.' },
     { year: '2026', title: 'Integración con IA', detail: 'Foco en IA generativa y automatización de procesos de software.' },
   ];
 
